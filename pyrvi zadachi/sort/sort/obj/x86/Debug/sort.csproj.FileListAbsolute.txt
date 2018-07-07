@@ -1,0 +1,4 @@
+D:\it kariera\sort\sort\bin\Debug\sort.exe
+D:\it kariera\sort\sort\bin\Debug\sort.pdb
+D:\it kariera\sort\sort\obj\x86\Debug\sort.exe
+D:\it kariera\sort\sort\obj\x86\Debug\sort.pdb

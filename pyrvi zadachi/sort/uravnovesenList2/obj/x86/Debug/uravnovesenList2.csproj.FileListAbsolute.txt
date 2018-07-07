@@ -1,0 +1,5 @@
+D:\it kariera\sort\uravnovesenList2\bin\Debug\uravnovesenList2.exe
+D:\it kariera\sort\uravnovesenList2\bin\Debug\uravnovesenList2.pdb
+D:\it kariera\sort\uravnovesenList2\obj\x86\Debug\uravnovesenList2.exe
+D:\it kariera\sort\uravnovesenList2\obj\x86\Debug\uravnovesenList2.pdb
+D:\it kariera\sort\uravnovesenList2\obj\x86\Debug\uravnovesenList2.csprojResolveAssemblyReference.cache

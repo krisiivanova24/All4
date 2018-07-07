@@ -1,0 +1,7 @@
+C:\Users\hristo\Desktop\ACD\pyrvi zadachi\counter\bin\Debug\counter.exe.config
+C:\Users\hristo\Desktop\ACD\pyrvi zadachi\counter\bin\Debug\counter.exe
+C:\Users\hristo\Desktop\ACD\pyrvi zadachi\counter\bin\Debug\counter.pdb
+C:\Users\hristo\Desktop\ACD\pyrvi zadachi\counter\obj\Debug\counter.csprojResolveAssemblyReference.cache
+C:\Users\hristo\Desktop\ACD\pyrvi zadachi\counter\obj\Debug\counter.csproj.CoreCompileInputs.cache
+C:\Users\hristo\Desktop\ACD\pyrvi zadachi\counter\obj\Debug\counter.exe
+C:\Users\hristo\Desktop\ACD\pyrvi zadachi\counter\obj\Debug\counter.pdb

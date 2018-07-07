@@ -1,0 +1,4 @@
+D:\it kariera\sort\uncount\bin\Debug\uncount.exe
+D:\it kariera\sort\uncount\bin\Debug\uncount.pdb
+D:\it kariera\sort\uncount\obj\x86\Debug\uncount.exe
+D:\it kariera\sort\uncount\obj\x86\Debug\uncount.pdb

@@ -1,0 +1,6 @@
+C:\Users\hristo\Desktop\ACD\pyrvi zadachi\students\bin\Debug\students.exe.config
+C:\Users\hristo\Desktop\ACD\pyrvi zadachi\students\bin\Debug\students.exe
+C:\Users\hristo\Desktop\ACD\pyrvi zadachi\students\bin\Debug\students.pdb
+C:\Users\hristo\Desktop\ACD\pyrvi zadachi\students\obj\Debug\students.csproj.CoreCompileInputs.cache
+C:\Users\hristo\Desktop\ACD\pyrvi zadachi\students\obj\Debug\students.exe
+C:\Users\hristo\Desktop\ACD\pyrvi zadachi\students\obj\Debug\students.pdb

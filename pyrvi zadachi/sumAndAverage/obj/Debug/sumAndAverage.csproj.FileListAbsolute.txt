@@ -1,0 +1,7 @@
+C:\Users\hristo\Desktop\ACD\pyrvi zadachi\sumAndAverage\bin\Debug\sumAndAverage.exe.config
+C:\Users\hristo\Desktop\ACD\pyrvi zadachi\sumAndAverage\bin\Debug\sumAndAverage.exe
+C:\Users\hristo\Desktop\ACD\pyrvi zadachi\sumAndAverage\bin\Debug\sumAndAverage.pdb
+C:\Users\hristo\Desktop\ACD\pyrvi zadachi\sumAndAverage\obj\Debug\sumAndAverage.csprojResolveAssemblyReference.cache
+C:\Users\hristo\Desktop\ACD\pyrvi zadachi\sumAndAverage\obj\Debug\sumAndAverage.csproj.CoreCompileInputs.cache
+C:\Users\hristo\Desktop\ACD\pyrvi zadachi\sumAndAverage\obj\Debug\sumAndAverage.exe
+C:\Users\hristo\Desktop\ACD\pyrvi zadachi\sumAndAverage\obj\Debug\sumAndAverage.pdb

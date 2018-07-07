@@ -1,0 +1,7 @@
+C:\Users\hristo\Desktop\ACD\sortAndAthor\sortAndAthor\bin\Debug\sortAndAthor.exe.config
+C:\Users\hristo\Desktop\ACD\sortAndAthor\sortAndAthor\bin\Debug\sortAndAthor.exe
+C:\Users\hristo\Desktop\ACD\sortAndAthor\sortAndAthor\bin\Debug\sortAndAthor.pdb
+C:\Users\hristo\Desktop\ACD\sortAndAthor\sortAndAthor\obj\Debug\sortAndAthor.csprojResolveAssemblyReference.cache
+C:\Users\hristo\Desktop\ACD\sortAndAthor\sortAndAthor\obj\Debug\sortAndAthor.csproj.CoreCompileInputs.cache
+C:\Users\hristo\Desktop\ACD\sortAndAthor\sortAndAthor\obj\Debug\sortAndAthor.exe
+C:\Users\hristo\Desktop\ACD\sortAndAthor\sortAndAthor\obj\Debug\sortAndAthor.pdb

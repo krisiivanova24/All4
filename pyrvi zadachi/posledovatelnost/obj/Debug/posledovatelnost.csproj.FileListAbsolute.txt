@@ -1,0 +1,7 @@
+C:\Users\hristo\Desktop\ACD\pyrvi zadachi\posledovatelnost\bin\Debug\posledovatelnost.exe.config
+C:\Users\hristo\Desktop\ACD\pyrvi zadachi\posledovatelnost\bin\Debug\posledovatelnost.exe
+C:\Users\hristo\Desktop\ACD\pyrvi zadachi\posledovatelnost\bin\Debug\posledovatelnost.pdb
+C:\Users\hristo\Desktop\ACD\pyrvi zadachi\posledovatelnost\obj\Debug\posledovatelnost.csprojResolveAssemblyReference.cache
+C:\Users\hristo\Desktop\ACD\pyrvi zadachi\posledovatelnost\obj\Debug\posledovatelnost.csproj.CoreCompileInputs.cache
+C:\Users\hristo\Desktop\ACD\pyrvi zadachi\posledovatelnost\obj\Debug\posledovatelnost.exe
+C:\Users\hristo\Desktop\ACD\pyrvi zadachi\posledovatelnost\obj\Debug\posledovatelnost.pdb

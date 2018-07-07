@@ -1,0 +1,4 @@
+D:\it kariera\sort\SelectionSort\bin\Debug\SelectionSort.exe
+D:\it kariera\sort\SelectionSort\bin\Debug\SelectionSort.pdb
+D:\it kariera\sort\SelectionSort\obj\x86\Debug\SelectionSort.exe
+D:\it kariera\sort\SelectionSort\obj\x86\Debug\SelectionSort.pdb

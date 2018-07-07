@@ -1,0 +1,4 @@
+D:\it kariera\sort\uravnovesenMassive\bin\Debug\uravnovesenMassive.exe
+D:\it kariera\sort\uravnovesenMassive\bin\Debug\uravnovesenMassive.pdb
+D:\it kariera\sort\uravnovesenMassive\obj\x86\Debug\uravnovesenMassive.exe
+D:\it kariera\sort\uravnovesenMassive\obj\x86\Debug\uravnovesenMassive.pdb

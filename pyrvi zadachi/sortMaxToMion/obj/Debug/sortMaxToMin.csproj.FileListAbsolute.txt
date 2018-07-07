@@ -1,0 +1,7 @@
+C:\Users\hristo\Desktop\ACD\pyrvi zadachi\sortMaxToMion\bin\Debug\sortMaxToMion.exe.config
+C:\Users\hristo\Desktop\ACD\pyrvi zadachi\sortMaxToMion\bin\Debug\sortMaxToMion.exe
+C:\Users\hristo\Desktop\ACD\pyrvi zadachi\sortMaxToMion\bin\Debug\sortMaxToMion.pdb
+C:\Users\hristo\Desktop\ACD\pyrvi zadachi\sortMaxToMion\obj\Debug\sortMaxToMin.csprojResolveAssemblyReference.cache
+C:\Users\hristo\Desktop\ACD\pyrvi zadachi\sortMaxToMion\obj\Debug\sortMaxToMin.csproj.CoreCompileInputs.cache
+C:\Users\hristo\Desktop\ACD\pyrvi zadachi\sortMaxToMion\obj\Debug\sortMaxToMion.exe
+C:\Users\hristo\Desktop\ACD\pyrvi zadachi\sortMaxToMion\obj\Debug\sortMaxToMion.pdb

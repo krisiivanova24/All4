@@ -1,0 +1,6 @@
+C:\Users\hristo\Desktop\ACD\pyrvi zadachi\addAndSort\bin\Debug\addAndSort.exe.config
+C:\Users\hristo\Desktop\ACD\pyrvi zadachi\addAndSort\bin\Debug\addAndSort.exe
+C:\Users\hristo\Desktop\ACD\pyrvi zadachi\addAndSort\bin\Debug\addAndSort.pdb
+C:\Users\hristo\Desktop\ACD\pyrvi zadachi\addAndSort\obj\Debug\addAndSort.csproj.CoreCompileInputs.cache
+C:\Users\hristo\Desktop\ACD\pyrvi zadachi\addAndSort\obj\Debug\addAndSort.exe
+C:\Users\hristo\Desktop\ACD\pyrvi zadachi\addAndSort\obj\Debug\addAndSort.pdb

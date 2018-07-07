@@ -1,0 +1,4 @@
+D:\it kariera\sort\Majorant\bin\Debug\Majorant.exe
+D:\it kariera\sort\Majorant\bin\Debug\Majorant.pdb
+D:\it kariera\sort\Majorant\obj\x86\Debug\Majorant.exe
+D:\it kariera\sort\Majorant\obj\x86\Debug\Majorant.pdb

@@ -1,0 +1,4 @@
+D:\it kariera\sort\deleteIncountable\bin\Debug\deleteIncountable.exe
+D:\it kariera\sort\deleteIncountable\bin\Debug\deleteIncountable.pdb
+D:\it kariera\sort\deleteIncountable\obj\x86\Debug\deleteIncountable.exe
+D:\it kariera\sort\deleteIncountable\obj\x86\Debug\deleteIncountable.pdb

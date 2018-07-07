@@ -1,0 +1,7 @@
+C:\Users\hristo\Desktop\ACD\pyrvi zadachi\2ListsInOne\bin\Debug\2ListsInOne.exe.config
+C:\Users\hristo\Desktop\ACD\pyrvi zadachi\2ListsInOne\bin\Debug\2ListsInOne.exe
+C:\Users\hristo\Desktop\ACD\pyrvi zadachi\2ListsInOne\bin\Debug\2ListsInOne.pdb
+C:\Users\hristo\Desktop\ACD\pyrvi zadachi\2ListsInOne\obj\Debug\2ListsInOne.csprojResolveAssemblyReference.cache
+C:\Users\hristo\Desktop\ACD\pyrvi zadachi\2ListsInOne\obj\Debug\2ListsInOne.csproj.CoreCompileInputs.cache
+C:\Users\hristo\Desktop\ACD\pyrvi zadachi\2ListsInOne\obj\Debug\2ListsInOne.exe
+C:\Users\hristo\Desktop\ACD\pyrvi zadachi\2ListsInOne\obj\Debug\2ListsInOne.pdb

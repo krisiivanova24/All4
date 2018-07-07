@@ -1,0 +1,7 @@
+C:\Users\hristo\Desktop\ACD\pyrvi zadachi\pyrva zadacha\bin\Debug\pyrva zadacha.exe.config
+C:\Users\hristo\Desktop\ACD\pyrvi zadachi\pyrva zadacha\bin\Debug\pyrva zadacha.exe
+C:\Users\hristo\Desktop\ACD\pyrvi zadachi\pyrva zadacha\bin\Debug\pyrva zadacha.pdb
+C:\Users\hristo\Desktop\ACD\pyrvi zadachi\pyrva zadacha\obj\Debug\pyrva zadacha.csprojResolveAssemblyReference.cache
+C:\Users\hristo\Desktop\ACD\pyrvi zadachi\pyrva zadacha\obj\Debug\pyrva zadacha.csproj.CoreCompileInputs.cache
+C:\Users\hristo\Desktop\ACD\pyrvi zadachi\pyrva zadacha\obj\Debug\pyrva zadacha.exe
+C:\Users\hristo\Desktop\ACD\pyrvi zadachi\pyrva zadacha\obj\Debug\pyrva zadacha.pdb

@@ -1,0 +1,4 @@
+D:\it kariera\sort\bubbleSort\bin\Debug\bubbleSort.exe
+D:\it kariera\sort\bubbleSort\bin\Debug\bubbleSort.pdb
+D:\it kariera\sort\bubbleSort\obj\x86\Debug\bubbleSort.exe
+D:\it kariera\sort\bubbleSort\obj\x86\Debug\bubbleSort.pdb

@@ -1,0 +1,4 @@
+D:\it kariera\sort\ColonSort\bin\Debug\ColonSort.exe
+D:\it kariera\sort\ColonSort\bin\Debug\ColonSort.pdb
+D:\it kariera\sort\ColonSort\obj\x86\Debug\ColonSort.exe
+D:\it kariera\sort\ColonSort\obj\x86\Debug\ColonSort.pdb
